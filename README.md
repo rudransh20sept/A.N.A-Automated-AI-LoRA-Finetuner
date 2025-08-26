@@ -1,4 +1,4 @@
-#### ANA – Automated AI LoRA Finetuner
+#### ANA –  Automated Neural Adapter 
 
 ana is a simple tool that lets you fine-tune AI models with LoRA in just a few steps.  
 It comes as a ready-to-run package, so you don’t have to worry about complicated setup.
